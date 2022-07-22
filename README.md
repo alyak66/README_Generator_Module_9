@@ -18,3 +18,5 @@ SO THAT I can quickly create a professional README for a new project
 (insert video here)
 
 ## URLs
+Git Hub URL: https://github.com/alyak66/README_Generator_Module_9
+Email: alyak66@gmail.com
